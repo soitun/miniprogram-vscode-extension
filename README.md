@@ -81,6 +81,10 @@
 
 部分功能的实现参考了微信开发者工具 IDE
 
+## Sponsors
+
+[<img src="https://api.gitsponsors.com/api/badge/img?id=253479665" height="20">](https://api.gitsponsors.com/api/badge/link?p=4oyuuh+T4CPkdXE6njcvP2ZSJQQ48zPfndQxQH8JJ0KAweh9Pws3HCZzWYoTcEpp2I9Ho3CThyaKPvWhSTtq2nrC0hRwROubwdc4+TXY3if7q52q9nAvFFuE1i8Core1fmf24CN992ccLIbCSnUuNw==)
+
 ## License
 
 [GPL-3.0](https://github.com/crazyurus/miniprogram-vscode-extension/blob/master/LICENSE)
